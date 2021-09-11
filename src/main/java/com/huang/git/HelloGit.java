@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("good morning everyone");
         System.out.println("hot-fix line");
         System.out.println("master line");
+        System.out.println("xiaoqing");
     }
 }
